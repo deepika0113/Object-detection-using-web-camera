@@ -2,7 +2,7 @@
 
 <H3>Name: DEEPIKA R</H3>
 <H3>Register no: 212224100009</H3>
-<H3>Date: 16.10.2025 </H3>
+<H3>Date: 16.11.2025 </H3>
 
 # AIM:
 To perform real-time object detection using a trained YOLO v4 model through your laptop camera.

@@ -1,8 +1,8 @@
 # Object-detection-using-web-camera
 
-<H3>Name: SANJEEV RAJ.S</H3>
-<H3>Register no: 212223220096</H3>
-<H3>Date: 30.9.2025 </H3>
+<H3>Name: DEEPIKA R</H3>
+<H3>Register no: 212224100009</H3>
+<H3>Date: 16.10.2025 </H3>
 
 # AIM:
 To perform real-time object detection using a trained YOLO v4 model through your laptop camera.
@@ -90,7 +90,5 @@ cv2.destroyAllWindows()
 
 # OUTPUT:
 
-<img width="796" height="638" alt="image" src="https://github.com/user-attachments/assets/38d726ef-61ef-49c9-9d29-99c70faccb79" />
+<img width="1100" height="827" alt="image" src="https://github.com/user-attachments/assets/dba1a971-683d-4908-9fa7-47f09c214314" />
 
-
- 
